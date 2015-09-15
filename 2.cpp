@@ -1,3 +1,3 @@
 af
 
-add canols
+add canola
